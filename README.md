@@ -1,1 +1,7 @@
-# actress-react
+
+~ npm install
+
+~ npm start
+
+
+
