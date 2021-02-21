@@ -3,19 +3,16 @@
 
 <img width="400px" src="https://github.com/Mishka-Sakhelashvili/React__Actor/blob/master/IMG/4yvekb.gif"/>
 
-<hr />
-<h1> 👉 <a href="https://mishka-sakhelashvili.github.io/JS_test/">  View Demo  </a></h1>
 
 <hr />
 <h2><i>Desc: </i></h2>
-<p> Body Slider </p>
+<p> Famous Actor Display </p>
 
 <hr />
 <h2><i>Used Technologies: </i></h2>
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <hr />
