@@ -1,7 +1,7 @@
 ### Hi there 👋
 <hr />
 
-<img width="400px" src="https://github.com/Mishka-Sakhelashvili/React__Actor/blob/master/IMG/4yvekb.gif"/>
+<img width="600px" src="https://github.com/Mishka-Sakhelashvili/React__Actor/blob/master/IMG/4yvekb.gif"/>
 
 
 <hr />
